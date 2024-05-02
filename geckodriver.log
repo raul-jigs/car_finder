@@ -1,0 +1,18 @@
+1714456616705	geckodriver	INFO	Listening on 127.0.0.1:50397
+1714456616968	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/5y/26pgplzs2lj29s86xt5jxv900000gn/T/rust_mozprofileErm48K"
+1714456617600	Marionette	INFO	Marionette enabled
+2024-04-29 22:56:58.716 firefox[17952:585745] Warning: Expected min height of view: (<NSButton: 0x121a52000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2024-04-29 22:56:58.716 firefox[17952:585745] Warning: Expected min height of view: (<NSButton: 0x129d27000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2024-04-29 22:56:58.716 firefox[17952:585745] Warning: Expected min height of view: (<NSButton: 0x129d23c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2024-04-29 22:56:58.717 firefox[17952:585745] Warning: Expected min height of view: (<NSButton: 0x129d25800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2024-04-29 22:56:58.717 firefox[17952:585745] Warning: Expected min height of view: (<NSButton: 0x129d2a000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2024-04-29 22:56:58.717 firefox[17952:585745] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x129d24c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2024-04-29 22:56:58.718 firefox[17952:585745] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x129d5b000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5y/26pgplzs2lj29s86xt5jxv900000gn/T/rust_mozprofileErm48K/search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile provided more links than permitted. (3 received, limit is 2)
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:50398/devtools/browser/58db5210-a55c-400b-8315-b395f741e99a
+1714456620581	Marionette	INFO	Listening on port 50431
+1714456620696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i_8K4/yu/l/en_US/RRm2quQ_ymn.js?_nc_x=Ij3Wp8lg5Kz, line 112: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
